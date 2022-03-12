@@ -1,0 +1,11 @@
+/Volumes/Docs/dev/cgc/rust-docker-commands/target/debug/deps/signal_hook-d67d0ae0f4e0f621.rmeta: /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/lib.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/cleanup.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/flag.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/iterator.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/pipe.rs
+
+/Volumes/Docs/dev/cgc/rust-docker-commands/target/debug/deps/libsignal_hook-d67d0ae0f4e0f621.rlib: /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/lib.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/cleanup.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/flag.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/iterator.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/pipe.rs
+
+/Volumes/Docs/dev/cgc/rust-docker-commands/target/debug/deps/signal_hook-d67d0ae0f4e0f621.d: /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/lib.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/cleanup.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/flag.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/iterator.rs /Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/pipe.rs
+
+/Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/lib.rs:
+/Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/cleanup.rs:
+/Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/flag.rs:
+/Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/iterator.rs:
+/Users/carlosguajardo/.cargo/registry/src/github.com-1ecc6299db9ec823/signal-hook-0.1.17/src/pipe.rs:
